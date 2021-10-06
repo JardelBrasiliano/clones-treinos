@@ -13,7 +13,7 @@ Projetos utilizando ReactJs
 
 ![App Screenshot](/.github/pipefy.png)
 
-## Pipefy
+## Dropbox
 
 **Tecnologia** React, StyledComponents
 
