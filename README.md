@@ -2,9 +2,9 @@
 
 Criando front-end de aplicações ja existentes, seguind tutoriais ou não.
 
-## Projetos apenas com ReactJs
+## Projetos com ReactJs
 
 - [Pipefy](/reactJs/clones-rocketseat)
 - [Dropbox](/reactJs/clones-rocketseat)
 
-## Projetos apenas com JS-HTML-CSS
+## Projetos sem o uso de Framework
